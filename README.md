@@ -46,7 +46,7 @@ One of the unique features of Python Tycoon is the **peer-to-peer (P2P) money tr
 
 3. **Receiving Money**: When a player receives a transfer, they are notified of the sender’s username and the amount received. The funds are automatically added to their balance.
 
-This P2P feature opens the door for collaborative gameplay, where players can assist each other by sharing resources. However, it’s important to note that this P2P setup does not include encryption or player verification, which would be necessary for a secure production environment.
+This P2P feature opens the door for collaborative gameplay, where players can assist each other by sharing resources. However, it’s important to note that this P2P setup does not include encryption or player verification, which would be necessary for a secure production environment. As a result, this is more like a novelty, fun feature. However, given that this is Python  code, this can be modified.
 
 ---
 
